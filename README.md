@@ -1,6 +1,6 @@
 ### Hello ✨ I am Daniel J. Gomez, an innovative 👨‍🔬 Molecular, Cell, Tissue, Organ, Structural, Spatial and Computational Biologist 👨‍💻!
 
-- 👋 Hi, I’m Daniel J. Gomez, a graduate student researcher at Stanford University School of Medicine and California State University, East Bay.
+- 👋 Hi, I’m Daniel J. Gomez, a graduate student researcher at Stanford University School of Medicine (Genetics) and California State University, East Bay (Biology)
 - 👀 I’m interested in biomedical translational research, genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial multi-omics, precision and evidence-based medicine.
 - 🌱 I’m currently learning generative digital twin technology, exercise immuno-ommunology, computational/systems cancer  biology, and multimodal analysis as well as big data omics approaches.
 - 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCGA, HuBMAP, and HTAN.
