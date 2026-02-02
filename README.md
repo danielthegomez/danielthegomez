@@ -55,7 +55,7 @@ Technique Interests:
 - Data Science and Cloud Computing of Precision Medicine
 - Cloud computing
 - Bioinformatics
-- AI/ML
+- AI/ML Fundamentals in Precision Medicine
 - Supervised Learning
 - Unsupervised Learning
 - Neural Networks
