@@ -7,7 +7,7 @@
 - 📫 How to reach me d.gomez@me.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I've authored several scientific peer-reviewed publications, and presented to global audiences.
-- I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, and played other sports including basketball, soccer, football, and volleyball.
+- I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, and played other sports including basketball, soccer, football, waterpolo, and volleyball.
 - I've also did lighting design for over 20 productions across U.S. cities, universities in multiple states in the USA.
 - I've played multiple musical instruments: piano, clarinet, saxophone, guitar, 2nd violin, made 1st violin, and played orchestra internationally.
 - I've also stayed consistent in doing state-of-the-art academic biomedical research in six different medical schools and one veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, UFCVM, DUCOM) and industry-scale methods.
